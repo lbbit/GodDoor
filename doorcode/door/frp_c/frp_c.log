@@ -1,0 +1,23 @@
+2018/06/04 08:43:27 [1;34m[I] [proxy_manager.go:298] proxy removed: [][0m
+2018/06/04 08:43:27 [1;34m[I] [proxy_manager.go:308] proxy added: [ssh_a ssh_c][0m
+2018/06/04 08:43:27 [1;34m[I] [proxy_manager.go:331] visitor removed: [][0m
+2018/06/04 08:43:27 [1;34m[I] [proxy_manager.go:340] visitor added: [][0m
+2018/06/04 08:43:28 [1;34m[I] [control.go:240] [3242ac6be5de2272] login to server success, get run id [3242ac6be5de2272], server udp port [0][0m
+2018/06/04 08:43:28 [1;33m[W] [control.go:163] [3242ac6be5de2272] [ssh_a] start error: port already used[0m
+2018/06/04 08:43:28 [1;33m[W] [control.go:163] [3242ac6be5de2272] [ssh_c] start error: port already used[0m
+2018/06/04 08:44:28 [1;33m[W] [control.go:163] [3242ac6be5de2272] [ssh_a] start error: port already used[0m
+2018/06/04 08:44:28 [1;33m[W] [control.go:163] [3242ac6be5de2272] [ssh_c] start error: port already used[0m
+2018/06/04 08:45:28 [1;33m[W] [control.go:163] [3242ac6be5de2272] [ssh_a] start error: port already used[0m
+2018/06/04 08:45:28 [1;33m[W] [control.go:163] [3242ac6be5de2272] [ssh_c] start error: port already used[0m
+2018/06/04 08:46:28 [1;33m[W] [control.go:163] [3242ac6be5de2272] [ssh_a] start error: port already used[0m
+2018/06/04 08:46:28 [1;33m[W] [control.go:163] [3242ac6be5de2272] [ssh_c] start error: port already used[0m
+2018/06/04 08:47:28 [1;33m[W] [control.go:163] [3242ac6be5de2272] [ssh_a] start error: port already used[0m
+2018/06/04 08:47:28 [1;33m[W] [control.go:163] [3242ac6be5de2272] [ssh_c] start error: port already used[0m
+2018/06/04 08:48:28 [1;33m[W] [control.go:163] [3242ac6be5de2272] [ssh_a] start error: port already used[0m
+2018/06/04 08:48:28 [1;33m[W] [control.go:163] [3242ac6be5de2272] [ssh_c] start error: port already used[0m
+2018/06/04 08:49:28 [1;33m[W] [control.go:163] [3242ac6be5de2272] [ssh_a] start error: port already used[0m
+2018/06/04 08:49:28 [1;33m[W] [control.go:163] [3242ac6be5de2272] [ssh_c] start error: port already used[0m
+2018/06/04 08:50:28 [1;33m[W] [control.go:163] [3242ac6be5de2272] [ssh_a] start error: port already used[0m
+2018/06/04 08:50:28 [1;33m[W] [control.go:163] [3242ac6be5de2272] [ssh_c] start error: port already used[0m
+2018/06/04 08:51:28 [1;33m[W] [control.go:163] [3242ac6be5de2272] [ssh_a] start error: port already used[0m
+2018/06/04 08:51:28 [1;33m[W] [control.go:163] [3242ac6be5de2272] [ssh_c] start error: port already used[0m
